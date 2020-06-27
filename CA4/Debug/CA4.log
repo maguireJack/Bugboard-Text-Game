@@ -1,0 +1,3 @@
+﻿  Hopper.cpp
+C:\Users\jmagu\source\repos\CA4\CA4\Hopper.cpp(34): warning C4715: 'Hopper::getDirection': not all control paths return a value
+  CA4.vcxproj -> C:\Users\jmagu\source\repos\CA4\Debug\CA4.exe
